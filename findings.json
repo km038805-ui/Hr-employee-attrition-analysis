@@ -1,0 +1,39 @@
+{
+  "raw_rows": 1470,
+  "cleaned_rows": 1470,
+  "duplicate_rows_removed": 0,
+  "missing_values": 0,
+  "attrition_yes": 237,
+  "attrition_rate_pct": 16.12,
+  "attrition_by_department_pct": {
+    "Human Resources": 19.05,
+    "Research & Development": 13.84,
+    "Sales": 20.63
+  },
+  "attrition_by_overtime_pct": {
+    "No": 10.44,
+    "Yes": 30.53
+  },
+  "attrition_by_job_role_pct": {
+    "Sales Representative": 39.76,
+    "Laboratory Technician": 23.94,
+    "Human Resources": 23.08,
+    "Sales Executive": 17.48,
+    "Research Scientist": 16.1,
+    "Manufacturing Director": 6.9,
+    "Healthcare Representative": 6.87,
+    "Manager": 4.9,
+    "Research Director": 2.5
+  },
+  "attrition_by_job_satisfaction_pct": {
+    "1": 22.84,
+    "2": 16.43,
+    "3": 16.52,
+    "4": 11.33
+  },
+  "avg_monthly_income_left": 4787.09,
+  "avg_monthly_income_stayed": 6832.74,
+  "avg_years_at_company_left": 5.13,
+  "avg_years_at_company_stayed": 7.37,
+  "avg_age": 36.92
+}
